@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project build React with tailwind with [Live preview](https://ema-john-with-tailwin-sohelrana1831.netlify.app/).
 
 ## Available Scripts
 
