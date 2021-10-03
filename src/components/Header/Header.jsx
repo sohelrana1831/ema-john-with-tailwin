@@ -16,11 +16,6 @@ const Header = () => {
             Manage Inventory here
           </Link>
         </ul>
-        <input
-          className="w-full p-2 mt-2 mb-4 text-gray-800 font-bold"
-          type="text"
-          placeholder="Type here to search"
-        />
       </nav>
     </div>
   );
